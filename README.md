@@ -259,12 +259,12 @@ print(f"Errors: {result['errors']}")
 
 ## 📝 License
 
-© 2025 Rod Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
+© 2025 Rod M. Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
 
 ---
 
-## 🙋 Author
+## 🙋‍♂️ Author
 
-**Rod Stewart** — [GitHub](https://github.com/Rodstewart498)
+**Rod M. Stewart** — [GitHub](https://github.com/Rodstewart498)
 
 Built to keep multi-platform inventory accurate without the cost or limitations of commercial sync tools.
